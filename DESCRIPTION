@@ -1,0 +1,11 @@
+Package: hursta2a520709customcdf
+Title: hursta2a520709customcdf
+Version: 1.0
+Created: Mon Mar 30 21:29:35 2020
+Author: Steven Eschrich
+Description: A package containing an environment representing the HuRSTA-2a520709_Custom.CDF file.
+Maintainer: Steven Eschrich <Steven.Eschrich@moffitt.org>
+License: LGPL
+biocViews: AnnotationData, AffymetrixChip, cdf, hursta2a520709custom, Homo_sapiens
+Depends: utils
+Imports: AnnotationDbi
